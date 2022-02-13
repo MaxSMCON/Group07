@@ -15,3 +15,5 @@ Google Colab will be the source for Coding
 Members can add  sections as they add code to the main program. 
 
 Call out from David - Start work on assignment 1 early as the gap between the two assignments is only one week. 
+
+**Next Meeting February 20th @6pm EST**
