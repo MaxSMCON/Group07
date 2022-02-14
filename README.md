@@ -3,6 +3,8 @@ This is repository for Group 7, Machine learning group project.
 
 We are going to use google colab for oup project. I will keep saving the colab notebook here.
 
+# Link to repository with "Hands-on Machine Learning..." by A. Geron: https://github.com/ageron/handson-ml2
+
 **Recap - Sunday Feb 13th, 2022**
 All members to look for data sources 
 Ramila ws interested in HR Data sets 
