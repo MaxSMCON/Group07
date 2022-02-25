@@ -21,4 +21,12 @@ Members can add  sections as they add code to the main program.
 
 Call out from David - Start work on assignment 1 early as the gap between the two assignments is only one week. 
 
-**Next Meeting February 20th @6pm EST**
+**Recap Meeting February 20th @6pm EST**
+Please review the US Census Data Set to predict over 50K - What kind of data exploratory activities can be done 
+Also review the Buying pattern data set to see if it can be appended with other data sets out there. 
+
+_Have a data set, if you watn to present it. Else lets preserve our time with what we need to do next. _
+
+Plan of Action  - Data Exploration on the two identified.
+
+**Next Meeting February 27th @6pm EST** - Finialize the data set and prepare Pipeline analysis
