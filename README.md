@@ -1,7 +1,7 @@
 # Group07
 This is repository for Group 7, Machine learning group project.
 
-### link to colab notebook:
+## link to colab notebook:
 https://colab.research.google.com/drive/1EvXRV8bqxK9XWTBd-aLWr0XW-uraBMON#scrollTo=f-2vLhwAPwVs
 
 We are going to use google colab for oup project. I will keep saving the colab notebook here.
