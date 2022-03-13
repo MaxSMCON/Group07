@@ -29,4 +29,10 @@ _Have a data set, if you watn to present it. Else lets preserve our time with wh
 
 Plan of Action  - Data Exploration on the two identified.
 
-**Next Meeting February 27th @6pm EST** - Finialize the data set and prepare Pipeline analysis
+**Next Meeting March 20 @6pm EST** - Finialize the data set and prepare Pipeline analysis
+
+# Tuning Model
+<li> Next Steps
+<li> Tuning hyper parameters - cross valdiation (precision, ROC), Gridsearch
+<li> Unsuperivesd Learning to tune target
+Reduction of dimensionalty
