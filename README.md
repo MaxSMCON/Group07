@@ -31,8 +31,8 @@ Plan of Action  - Data Exploration on the two identified.
 
 **Next Meeting March 20 @6pm EST** - Finialize the data set and prepare Pipeline analysis
 
-# Tuning Model
-<li> Next Steps
+# Next Steps
+<li> Improve pipeline
 <li> Gridsearch - tuning hyper parameters for different classifiers, cross valdiation (precision, ROC)
 <li> Unsuperivesd Learning to tune target - in case of low F1 score (it is good to demostrate)
 <li> Reduction of dimensionalty on further evaluation of classifiers  (hyper)
