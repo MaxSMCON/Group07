@@ -33,6 +33,9 @@ Plan of Action  - Data Exploration on the two identified.
 
 # Tuning Model
 <li> Next Steps
-<li> Tuning hyper parameters - cross valdiation (precision, ROC), Gridsearch
-<li> Unsuperivesd Learning to tune target
-Reduction of dimensionalty
+<li> Gridsearch - tuning hyper parameters for different classifiers, cross valdiation (precision, ROC)
+<li> Unsuperivesd Learning to tune target - in case of low F1 score (it is good to demostrate)
+<li> Reduction of dimensionalty on further evaluation of classifiers  (hyper)
+<li> work on vizualization transperancy (David will work)
+  
+  
