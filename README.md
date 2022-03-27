@@ -40,8 +40,39 @@ Plan of Action  - Data Exploration on the two identified.
 <li> Reduction of dimensionalty on further evaluation of classifiers  (hyper)
 <li> Work on vizualization transperancy (David will work)
 <li> PCA (0.95) and run classifiers (Sivi)
-  
+<li>   
 <li> Decision Tree - Gradient Boosting Regressor (Ramila) \  ADA BOOST (Panthea) 
   
-  
+# Report Structure Deadline is April 18th 
+  <li> Abstract - 2 pages
+      Description
+      Methods  
+      Result
+      
+  <li> Full Report 
+     Introduction
+        Dataset
+    Methods
+      Data preparation
+        Data cleaning, replacing missing values, creating new features, 
+      Pipeline     
+         onehot encoder
+         Data scalling
+    Data Modeiling 
+      Classifiy on whole dataset
+      Dimension Reduction  
+      Classify on reduced datatset
+      Accuracy evaluation
+    
+    <li> Decision Trees
+        Gradient Boost
+        Ada Boost
+        
+      Results
+      
+      Discussion
+      
+      Conclusion
+    
+    
   
