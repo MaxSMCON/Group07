@@ -44,35 +44,35 @@ Plan of Action  - Data Exploration on the two identified.
 <li> Decision Tree - Gradient Boosting Regressor (Ramila) \  ADA BOOST (Panthea) 
   
 # Report Structure Deadline is April 18th 
-  <li> Abstract - 2 pages
-      Description
-      Methods  
-      Result
+  ## Abstract - 2 pages
+   <li> Description
+   <li> Methods  
+   <li> Result
       
-  <li> Full Report 
-     Introduction
-        Dataset
-    Methods
-      Data preparation
-        Data cleaning, replacing missing values, creating new features, 
-      Pipeline     
-         onehot encoder
-         Data scalling
-    Data Modeiling 
-      Classifiy on whole dataset
-      Dimension Reduction  
-      Classify on reduced datatset
-      Accuracy evaluation
+  ## Full Report 
+   ### Introduction
+   <li> Dataset
+   ### Methods
+   <li> Data preparation
+   <li> Data cleaning, replacing missing values, creating new features, 
+    ### Pipeline     
+        <li> Onehot encoder
+        <li> Data scalling
+    ### Data Modeiling 
+     <li> Classifiy on whole dataset
+     <li> Dimension Reduction  
+     <li> Classify on reduced datatset
+     <li> Accuracy evaluation
     
-    <li> Decision Trees
-        Gradient Boost
-        Ada Boost
-        
-      Results
+    ### Decision Trees
+       <li> Gradient Boost
+        <li> Ada Boost
+         
+    ### Results
       
-      Discussion
+    ### Discussion
       
-      Conclusion
+    ### Conclusion
     
     
   
