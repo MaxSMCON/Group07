@@ -51,7 +51,8 @@ Plan of Action  - Data Exploration on the two identified.
       
   ## Full Report 
   ### Introduction
-   <li> Dataset <\li>
+   <li> Dataset
+     
   ### Methods
    <li> Data preparation
    <li> Data cleaning, replacing missing values, creating new features, 
