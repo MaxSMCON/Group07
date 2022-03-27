@@ -32,10 +32,16 @@ Plan of Action  - Data Exploration on the two identified.
 **Next Meeting March 27 @6pm EST** - Finialize the data set and prepare Pipeline analysis
 
 # Next Steps
-<li> Improve pipeline
-<li> Gridsearch - tuning hyper parameters for different classifiers, cross valdiation (precision, ROC)
+<li> Feature importance (check module 5)
+<li> Improve pipeline - Done
+<li> Gridsearch - tuning hyper parameters (Panthea)
+<li> Different classifiers, cross valdiation (precision, ROC) (code is there)
 <li> Unsuperivesd Learning to tune target - in case of low F1 score (it is good to demostrate)
 <li> Reduction of dimensionalty on further evaluation of classifiers  (hyper)
-<li> work on vizualization transperancy (David will work)
+<li> Work on vizualization transperancy (David will work)
+<li> PCA (0.95) and run classifiers (Sivi)
+  
+<li> Decision Tree - Gradient Boosting Regressor (Ramila) \  ADA BOOST (Panthea) 
+  
   
   
