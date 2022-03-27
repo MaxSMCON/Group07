@@ -50,29 +50,29 @@ Plan of Action  - Data Exploration on the two identified.
    <li> Result
       
   ## Full Report 
-   ### Introduction
-   <li> Dataset
-   ### Methods
+  ### Introduction
+   <li> Dataset <\li>
+  ### Methods
    <li> Data preparation
    <li> Data cleaning, replacing missing values, creating new features, 
-    ### Pipeline     
+  ### Pipeline     
         <li> Onehot encoder
         <li> Data scalling
-    ### Data Modeiling 
+  ### Data Modeiling 
      <li> Classifiy on whole dataset
      <li> Dimension Reduction  
      <li> Classify on reduced datatset
      <li> Accuracy evaluation
     
-    ### Decision Trees
-       <li> Gradient Boost
-        <li> Ada Boost
+   ### Decision Trees
+     <li> Gradient Boost
+     <li> Ada Boost
          
-    ### Results
+   ### Results
       
-    ### Discussion
+   ### Discussion
       
-    ### Conclusion
+   ### Conclusion
     
     
   
