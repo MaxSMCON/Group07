@@ -78,3 +78,6 @@ Plan of Action  - Data Exploration on the two identified.
     
 Summary File Created By David  
 https://docs.google.com/document/d/1UXEulDX6fk6i8gRy0lUSKxFR5u9nlv1-KGVx_xOwOVw/edit?usp=sharing
+       
+       https://cseweb.ucsd.edu/classes/sp15/cse190-c/reports/sp15/048.pdf
+
