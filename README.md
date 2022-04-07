@@ -3,6 +3,10 @@
 # Group07
 This is repository for Group 7, Machine learning group project.
 
+## Started presentation, it will help to collect results
+
+https://github.com/MaxSMCON/Group07/blob/main/Group%2007.pptx 
+
 ## link to colab notebook:
 https://colab.research.google.com/drive/1EvXRV8bqxK9XWTBd-aLWr0XW-uraBMON#scrollTo=f-2vLhwAPwVs
 
