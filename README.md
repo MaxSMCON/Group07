@@ -1,6 +1,8 @@
-Link to Group report https://docs.google.com/document/d/1xmoOELdttovHTkTRS1BAyaT1LA26IRg8/edit?usp=sharing&ouid=117976437994746600874&rtpof=true&sd=true
+**Link to Group report - Google Sheets** 
+https://docs.google.com/document/d/1xmoOELdttovHTkTRS1BAyaT1LA26IRg8/edit?usp=sharing&ouid=117976437994746600874&rtpof=true&sd=true
 
-* https://docs.google.com/document/d/1UXEulDX6fk6i8gRy0lUSKxFR5u9nlv1-KGVx_xOwOVw/edit#heading=h.2nc6dp53meke
+****Link to Summary Report - Google Sheets****
+https://docs.google.com/document/d/1UXEulDX6fk6i8gRy0lUSKxFR5u9nlv1-KGVx_xOwOVw/edit#heading=h.2nc6dp53meke
 
 # Group07
 This is repository for Group 7, Machine learning group project.
